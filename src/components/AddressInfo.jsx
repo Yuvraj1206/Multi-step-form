@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./comp.css";
 const AddressInfo = ({ formData, setFormData, errors }) => {
   return (
     <div className="from_container">

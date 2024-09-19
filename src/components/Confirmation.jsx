@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./comp.css";
 const Confirmation = ({ formData }) => {
   return (
     <div className="from_container">
