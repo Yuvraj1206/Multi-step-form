@@ -1,0 +1,22 @@
+.from_container{
+  width: 90%;
+  margin: 5px auto;
+}
+
+.from_container h3{
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.from_container input{
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  height: 40px;
+  padding: 2px 5px;
+  font-size: 17px;
+  background-color: rgba(233, 226, 226, 0.77);
+  border: none;
+  border-radius: 3px;
+}

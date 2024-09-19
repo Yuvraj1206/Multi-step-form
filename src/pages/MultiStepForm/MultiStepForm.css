@@ -1,0 +1,30 @@
+.multi_setup{
+  background-color: white;
+  color: black;
+  max-width: 460px;
+  min-height: 500px;
+  margin: 50px auto;
+  border-radius: 4px;
+  text-align: center;
+}
+.multi_setup h2{
+  padding: 15px;
+  color: #2f9ccf;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.multi_setup .btns button{
+  margin: 20px 15px;
+  min-width: 100px;
+  min-height: 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(84, 127, 228);
+  color: white;
+  font-size: 18px;
+}
+
+.multi_setup .btns button:hover{
+  background-color: rgb(51, 104, 229);
+}
