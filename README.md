@@ -22,8 +22,9 @@ This project implements a multi-step form with validation, local storage persist
 
 ## Technologies Used
 - React.js
-- JavaScript (ES6+)
+- JavaScript
 - Local Storage API
-- CSS (optional: Bootstrap/Material UI for responsiveness)
+- CSS
+- HTML
 
 
